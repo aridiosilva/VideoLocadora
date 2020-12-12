@@ -1,0 +1,3 @@
+module VideoLocadora {
+	requires junit;
+}
